@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\Scramble\Scramble\Debug\Scramble.vcxproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Scramble\Scramble\Debug\Scramble.vcxproj.GenerateResource.cache
+C:\Users\pc\source\repos\Scramble\Scramble\Debug\Scramble.Start.resources
+C:\Users\pc\source\repos\Scramble\Scramble\Debug\Scramble.Game.resources
+C:\Users\pc\source\repos\Scramble\Scramble\Debug\Scramble.Login.resources

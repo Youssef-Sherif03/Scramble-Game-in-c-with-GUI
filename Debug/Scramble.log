@@ -1,0 +1,5 @@
+﻿  Login.cpp
+C:\Users\pc\source\repos\Scramble\Scramble\Game.h(251,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc\source\repos\Scramble\Scramble\Login.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Scramble.vcxproj -> C:\Users\pc\source\repos\Scramble\Debug\Scramble.exe

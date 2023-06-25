@@ -1,0 +1,6 @@
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.vcxproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.Game.resources
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.Login.resources
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.Start.resources
+C:\Users\Youssef\Desktop\Scramble\x64\Debug\Scramble.vcxproj.GenerateResource.cache
